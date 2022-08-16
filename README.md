@@ -5,9 +5,9 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Cali - Valle Del Cauca
-* 🖥️  See my portfolio at [Blog Del Cafe](http://infallible-mahavira-036eb0.netlify.app/)
+* 🖥️  Check out my final project at SoyHenry bootcamp [UNKNOWN CODER](https://unknowncoder.vercel.app/)
 * ✉️  You can contact me at [rogelios-1992@hotmail.com](mailto:rogelios-1992@hotmail.com)
-* 🧠  I'm learning react, react-redux, express, SQL
+* 🧠  I have strong javascript, react, react-redux skills.
 
 ### Skills
 
