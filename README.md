@@ -5,6 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Cali - Valle Del Cauca
+* 🖥️  This is my portfolio [Rogx-Dev](https://rogx-dev.netlify.app/)
 * 🖥️  Check out my final project at SoyHenry bootcamp [UNKNOWN CODER](https://unknowncoder.vercel.app/)
 * ✉️  You can contact me at [rogelios-1992@hotmail.com](mailto:rogelios-1992@hotmail.com)
 * 🧠  I have strong javascript, react, react-redux skills.
